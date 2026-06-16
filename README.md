@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @KayyisIlham
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on Big Coorporate
 - 📫 How to reach me on Instagram @callmeyyis
 
 <!---
