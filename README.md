@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KayyisIlham
-- 📫 How to reach me on Instagram @callmeyyis
+- 📫 How to reach me on Instagram @kayys.ib
 
 <!---
 KayyisIlham/KayyisIlham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
