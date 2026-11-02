@@ -66,24 +66,43 @@ A web-based Learning Management System designed to support digital learning and 
 
 ---
 
-## 🏆 GitHub Achievements
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KayyisIlham&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/github/followers/KayyisIlham?style=for-the-badge&logo=github&label=Followers&color=blue" />
+  <img src="https://img.shields.io/github/repos/KayyisIlham?style=for-the-badge&logo=github&label=Repositories&color=purple" />
+  <img src="https://img.shields.io/github/gists/KayyisIlham?style=for-the-badge&logo=github&label=Gists&color=green" />
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/KayyisIlham">
+    <img src="https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/KayyisIlham?tab=repositories">
+    <img src="https://img.shields.io/badge/View-All%20Projects-0969DA?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KayyisIlham&theme=tokyonight&hide_border=true" width="75%" />
+</p>
+
+---
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KayyisIlham&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph" />
-</p>
-
-## 📊 GitHub Streak
-
-<p align="center">
-  <img width="60%"
-    src="https://streak-stats.demolab.com?user=KayyisIlham&theme=tokyonight&hide_border=true"
-  />
+  <a href="https://github.com/KayyisIlham">
+    <img src="https://img.shields.io/badge/View%20My%20GitHub%20Contributions-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
