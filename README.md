@@ -66,12 +66,19 @@ A web-based Learning Management System designed to support digital learning and 
 
 ---
 
-## 📊 GitHub Analytics
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KayyisIlham&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayyisIlham&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KayyisIlham&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="GitHub Trophies" />
 </p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KayyisIlham&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph" />
+</p>
+
+## 📊 GitHub Streak
 
 <p align="center">
   <img width="60%"
