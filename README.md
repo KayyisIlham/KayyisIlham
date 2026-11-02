@@ -68,8 +68,6 @@ A web-based Learning Management System designed to support digital learning and 
 
 ## 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KayyisIlham&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayyisIlham&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
