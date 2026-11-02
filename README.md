@@ -88,7 +88,21 @@ A web-based Learning Management System designed to support digital learning and 
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KayyisIlham/KayyisIlham/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/KayyisIlham/KayyisIlham/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/KayyisIlham/KayyisIlham/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/KayyisIlham/KayyisIlham/output/github-snake.svg"
+      width="100%"
+    />
+  </picture>
 </p>
 
 ---
